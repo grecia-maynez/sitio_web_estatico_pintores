@@ -1,0 +1,14 @@
+{
+  "name": "sitiostatico",
+  "version": "1.0.0",
+  "description": "Sitio web estatico acerca de pintores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grecia Pamela Máynez Escudero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
