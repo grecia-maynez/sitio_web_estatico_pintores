@@ -1,0 +1,12 @@
+table{
+    margin: 0 auto;
+    text-align: left;
+    
+}
+td{
+    background-color: white;
+}
+.in{
+    display: block;
+    margin:auto;
+}

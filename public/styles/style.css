@@ -1,0 +1,47 @@
+body{
+    padding: 22px;
+}
+h1{
+    text-align: center;
+}
+h2{
+
+}
+h3{
+
+}
+h4{
+    text-align: center;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section{
+    padding: 30px;
+    Background-color: rgba(255, 241, 176, 0.863)
+}
+table{
+    padding: 20px;
+    margin: 0 auto;
+    text-align: left;
+    
+}
+td{
+    Background-color: rgb(255, 241, 176);
+}
+.t{
+    display: block;
+    margin:auto; 
+}
+.rm{
+    float: right;
+    width: 400px;
+    height: 400px;
+}
+.p{
+    display: block;
+    margin: auto;
+}
+.f{
+    float: right;
+}
